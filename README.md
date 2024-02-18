@@ -9,7 +9,7 @@ This project aims to predict rent prices based on various factors such as area, 
 
 **To Clone the Repository**
 ```bash
-git clone https://github.com/your-username/rent_price_prediction.git
+https://github.com/aryanntated/Real_Estate_Price_Prediction.git
 ```
 
 ## Requirements
